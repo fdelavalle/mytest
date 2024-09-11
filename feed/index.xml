@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Test</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/mytest/feed/" rel="self" type="application/rss+xml" />
+	<link>/mytest</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 Sep 2024 20:59:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/09/11/hello-world/</link>
-					<comments>/2024/09/11/hello-world/#comments</comments>
+		<link>/mytest/2024/09/11/hello-world/</link>
+					<comments>/mytest/2024/09/11/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 11 Sep 2024 20:59:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/mytest/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/09/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/mytest/2024/09/11/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
